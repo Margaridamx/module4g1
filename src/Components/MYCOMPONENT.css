@@ -1,0 +1,11 @@
+.text-center{
+    text-align: justify;
+} 
+
+.main-text{
+    text-align: center;
+    font-size: xx-large;
+    font-variant: small-caps;
+    background-color: rgb(252, 251, 173);
+    font-weight: 300;
+}
