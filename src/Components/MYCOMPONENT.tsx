@@ -53,5 +53,3 @@ It is an annual herbaceous plant with nutritional, oleaginous and medicinal prop
 );
 
 export default MainPage;
-
-import React from 'react';
